@@ -1,0 +1,31 @@
+{
+    "id": "048F2724",
+    "path": "~/Desktop/SpectrumLab/Auction1001/Auc1001.qmd",
+    "project_path": "Auc1001.qmd",
+    "type": "quarto_markdown",
+    "hash": "472811071",
+    "contents": "",
+    "dirty": false,
+    "created": 1675193772041.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "true",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "1462:983",
+        "cursorPosition": "54,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1677127705,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1677127705646,
+    "read_only": false,
+    "read_only_alternatives": []
+}
