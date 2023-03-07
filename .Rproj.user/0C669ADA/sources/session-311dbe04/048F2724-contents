@@ -86,5 +86,22 @@ summary(compBidModel)
 ```
 
 ```{r}
+win_bids_area <- read_csv('data/merged_bid_area.csv')
 
+slice_head(win_bids_area, n=10)
+```
+
+```{r}
+if (max(win_bids_area$compensation) > 1000000){
+  win_bids_area$compensation = win_bids_area$compensation / 1000000
+}
+```
+
+```{r}
+
+areaBidModel <- lm(
+    data= win_bids_area, 
+    compensation ~ Area + Population)
+
+summary(areaBidModel)
 ```
